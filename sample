@@ -1,0 +1,5 @@
+class simple{
+public static void main(strings args[]){
+Sustem.out.println("Hello java")
+}
+}
